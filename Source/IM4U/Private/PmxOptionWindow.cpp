@@ -10,6 +10,7 @@
 #include "IDocumentation.h"
 #include "PropertyEditorModule.h"
 #include "IDetailsView.h"
+#include "EditorStyleSet.h"
 
 #define LOCTEXT_NAMESPACE "PMXOption"
 
